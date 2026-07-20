@@ -251,7 +251,7 @@ Developed full-stack features for an early-stage product, collaborating directly
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysatendravron&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satendravron&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF" width="100%"/>
 
 </div>
 
